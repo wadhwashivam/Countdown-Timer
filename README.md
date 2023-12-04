@@ -43,4 +43,4 @@ For questions or issues, please contact the author.
 [Shivam Wadhwa](http://github.com/wadhwashivam)
 
 
-*Enjoy counting down to your special moment!**
+*Enjoy counting down to your special moment!*
